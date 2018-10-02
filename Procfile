@@ -1,1 +1,1 @@
-web: gunicorn CS3240F18.textbookexchange.wsgi
+web: gunicorn textbookexchange.wsgi
