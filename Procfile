@@ -1,0 +1,1 @@
+web: gunicorn textbookexchange.wsgi
